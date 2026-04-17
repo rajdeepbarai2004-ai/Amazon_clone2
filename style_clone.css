@@ -21,3 +21,13 @@
 .border:hover{
     border: 2px solid white;
 }
+.word{
+    color:#CCCCCC;
+    font-size:0.85rem;
+    margin-left: 20px;
+}
+.search-select{
+    background-color: #E6E6E6;
+    border-radius:5px;
+    width:100%;
+}
