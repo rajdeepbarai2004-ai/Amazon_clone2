@@ -51,6 +51,9 @@
     height: 40px;
     width:620px;
 }
+.nav-search:hover{
+    border: 2px solid orange;
+}
 .search-select{
     background-color: #E6E6E6;
     border-top-left-radius:4px;
