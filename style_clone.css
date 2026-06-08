@@ -101,3 +101,8 @@ span{
     justify-content: space-evenly;
     align-items: center;
 }
+.panel-ops{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
