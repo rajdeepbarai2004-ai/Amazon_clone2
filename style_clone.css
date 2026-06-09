@@ -128,6 +128,7 @@ span{
         align-items: center;
         justify-content: center;
         font-size:0.85rem;
+        height:40px;
         width:80%;
         margin:25px;
 }
