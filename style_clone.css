@@ -135,3 +135,9 @@ span{
 .hero-msg a{
     color:#007185;
 }
+.shop-section{
+    background-color: #DAB8A1;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
