@@ -162,3 +162,13 @@ span{
 .box-content p{
     color:#007185;
 }
+.foot-panel1{
+    background-color: #242f3f;
+    color: white;
+}
+.foot-panel2{
+    background-color: #0f1111;
+    color:white;
+    display:flex;
+    justify-content: space-evenly;
+}
