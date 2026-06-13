@@ -163,12 +163,25 @@ span{
     color:#007185;
 }
 .foot-panel1{
+    height:50px;
     background-color: #242f3f;
     color: white;
+    font-size:0.85rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 .foot-panel2{
     background-color: #0f1111;
     color:white;
     display:flex;
     justify-content: space-evenly;
+}
+ul{
+    margin-top:20px;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
 }
